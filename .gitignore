@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Langchain - ChromaDB
+chroma_langchain_db
